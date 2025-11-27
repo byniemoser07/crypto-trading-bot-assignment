@@ -27,7 +27,7 @@ The bot successfully meets all core requirements and includes the following **bo
 
 1.  **Clone the Repository (or ensure files are present):**
     ```bash
-    cd [Your Project Directory] # e.g., cd crypto-bot-project
+    cd crypto-bot-project 
     ```
 
 2.  **Activate Virtual Environment:**
